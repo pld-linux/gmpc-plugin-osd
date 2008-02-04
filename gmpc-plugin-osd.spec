@@ -15,7 +15,7 @@ BuildRequires:	autoconf >= 2.50
 BuildRequires:	automake
 BuildRequires:	cairo-devel
 BuildRequires:	glib2-devel >= 1:2.10
-BuildRequires:	gmpc-devel >= 0.14.0
+BuildRequires:	gmpc-devel >= 0.15.5.0
 BuildRequires:	gtk+2-devel >= 2:2.8
 BuildRequires:	libglade2-devel
 BuildRequires:	libmpd-devel >= 0.15.0
